@@ -12,6 +12,21 @@ Bots using IBM Sametime
 
 Binary version at [bin](https://github.com/ebasso/ibm-sametime-bots/tree/master/bin) directory
 
+### Simple Bot
+
+![Screen capture of Simple Bot](readme_images/simplebot.png)
+
+### Simple Rest Bot
+
+![Screen capture of Simple Rest Bot](readme_images/simplerestbot.png)
+
+### Watson Conversation Bot
+
+![Screen capture of Watson Conversation Bot](readme_images/watsonconversationbot.png)
+
+### Watson Languate Translator Bot
+
+![Screen capture of Watson Language Translator Bot](readme_images/watsontranslatorbot.png)
 
 # WatsonConversationBot - Conversation Sample Application using IBM Sametime
 
