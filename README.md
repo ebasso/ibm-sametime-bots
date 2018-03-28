@@ -10,14 +10,14 @@ Bots using IBM Sametime
 | WatsonConversationBot       | This Bot use Watson Conversation service to demonstrates the Conversation service in a Sametime chat interface simulating a cognitive car dashboard.         |
 | WatsonLanguageTranslatorBot | This Bot use IBM Watson Language Translator service to do text translation    |
 
-Binary version at [bin][bin] directory
+Binary version at [bin](https://github.com/ebasso/ibm-sametime-bots/tree/master/bin) directory
 
 
 # WatsonConversationBot - Conversation Sample Application using IBM Sametime
 
 This Bot application demonstrates the Conversation service in a Sametime chat interface simulating a cognitive car dashboard.
 
-See [Demo: Car Dashboard] (https://watson-assistant-demo.ng.bluemix.net/)
+See [Demo: Car Dashboard](https://watson-assistant-demo.ng.bluemix.net/)
 
 ## Before you begin
 
