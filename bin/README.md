@@ -20,3 +20,13 @@ And run
 java -cp ibm-sametime-bots.jar SimpleBot -inifile=/home/ebasso/SimpleBot.properties
 ```
 
+
+Do the same for the others, change the property file and run
+
+```
+java -cp ibm-sametime-bots.jar SimpleRestBot -inifile=<directory>/SimpleRestBot.properties
+
+java -cp ibm-sametime-bots.jar WatsonConversationBot -inifile=<directory>/WatsonConversationBot.properties
+
+java -cp ibm-sametime-bots.jar WatsonLanguageTranslatorBot -inifile=<directory>/WatsonLanguageTranslatorBot.properties
+```
