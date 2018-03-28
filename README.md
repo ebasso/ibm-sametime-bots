@@ -26,13 +26,14 @@ See [Demo: Car Dashboard](https://watson-assistant-demo.ng.bluemix.net/)
 
 * Make sure that you have the following prerequisites installed:
     * The [Java 8](https://java.com/download) runtime
-    * The [Cloud Foundry][cloud_foundry] command-line client
 
 ### Getting the files
 
 Use GitHub to clone the repository locally, or [download the .zip file](https://github.com/ebasso/ibm-sametime-bots/archive/master.zip) of the repository and extract the files.
 
 ## Importing the Conversation workspace
+
+More details [Watson Assistant - Getting started tutorial](https://console.bluemix.net/docs/services/conversation/getting-started.html)
 
 1. In your browser, navigate to [your Bluemix console] (https://console.ng.bluemix.net/dashboard/services).
 
