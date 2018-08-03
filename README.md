@@ -1,5 +1,5 @@
 # ibm-sametime-bots
-Bots using IBM Sametime
+Bots using IBM Sametime. As client to REST Web Services and Watson Cognitive Services.
 
 ## Bots
 
